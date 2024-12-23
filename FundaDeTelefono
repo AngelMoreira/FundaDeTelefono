@@ -1,0 +1,22 @@
+public class FundaDeTelefono {
+    String marca;
+    String modeloCompatible;
+    String material;
+    String color;
+    boolean esAntigolpes;
+    boolean esResistenteAlAgua;
+    double peso;
+    double grosor;
+    String tipoDeCierre;
+    boolean tieneSoporte;
+    boolean tienePortatarjetas;
+    boolean tieneProteccionDePantalla;
+    String acabadoExterior;
+    String tipoDeDiseño;
+    String paisDeFabricacion;
+    double precio;
+    boolean esPersonalizable;
+    boolean tieneRanuraParaCargador;
+    boolean esCompatibleConCargadorInalambrico;
+    String garantia;
+}
